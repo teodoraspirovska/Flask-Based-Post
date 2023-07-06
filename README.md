@@ -1,3 +1,15 @@
+### Home page
+![Home](https://github.com/teodoraspirovska/Flask-Based-Post/assets/133661233/b2758a65-cdc7-46c7-a674-eb3fc17d86f5)
+
+### Post page
+![Post Page](https://github.com/teodoraspirovska/Flask-Based-Post/assets/133661233/7defa33c-e8b6-4f55-b8fa-91fb11465e4b)
+
+### Contact form
+![Contact Form](https://github.com/teodoraspirovska/Flask-Based-Post/assets/133661233/66f30eb4-afc8-452f-b32a-7e0031bca56d)
+
+### Footer
+![Footer](https://github.com/teodoraspirovska/Flask-Based-Post/assets/133661233/da3230ad-a0b5-4143-a473-6f9bee758325)
+
 # Flask-Based-Post
 This project is a Flask-based web application that utilizes Bootstrap for a visually appealing and responsive user interface, allowing users to view blog posts, learn about the author, and get in touch via a contact form with email integration.
 
